@@ -1,6 +1,6 @@
 ## ✨Hello everyone!!
 
--  💼Não trabalho com desenvolvimetno mas pretendo
+-  💼Não trabalho com desenvolvimento AINDA mas pretendo KKK
 -  📚Atualmente estou buscando aprender mais sobre o mundo React
 -  📩E-mail apra contato: Walistonsilva@outlook.com
 -  🩲Pronoums: Ele/Dele
