@@ -7,8 +7,8 @@ A baixo está meu e-mail e você pode estar entrando em contato comigo por ele m
 
 <div align="center">
   <a href="https://github.com/Cr1Ticals">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cr1Ticals&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1Ticals&layout=compact&langs_count=7&theme=react"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cr1Ticals&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1Ticals&layout=compact&langs_count=7&theme=vue"/>
 </div>
   
 <div style="display: inline_block"><br>
