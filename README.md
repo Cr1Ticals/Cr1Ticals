@@ -1,9 +1,9 @@
-## ✨Hello everyone!!
-
--  💼Não trabalho com desenvolvimento AINDA mas pretendo KKK
--  📚Atualmente estou buscando aprender mais sobre o mundo React
+## ✨Welcome!!
+Me chamo Waliston e aqui estão alguns projetinhos realizados, estou extremamante interessado em trabalhar na area de desenvolvimento ou até mesmo em projetos.
+A baixo está meu e-mail e você pode estar entrando em contato comigo por ele mesmo!
 -  📩E-mail apra contato: Walistonsilva@outlook.com
--  🩲Pronoums: Ele/Dele
+
+💼Searching for a job!
 
 <div align="center">
   <a href="https://github.com/Cr1Ticals">
@@ -21,7 +21,6 @@
   ##
   
 <div> 
-  <a href="https://www.instagram.com/tooncris/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:walistonsilva@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://https://www.linkedin.com/in/waliston-cristiano-da-silva-almeida-6b67921a2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
