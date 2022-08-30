@@ -1,17 +1,18 @@
-## ✨Welcome!!
-Me chamo Waliston e aqui estão alguns projetinhos realizados, estou extremamante interessado em trabalhar na area de desenvolvimento ou até mesmo em projetos.
+<div align="center">
+<h1> Welcome!! </h1>
+
+Me chamo Waliston e aqui estão alguns projetos realizados. Estou extremamante interessado em trabalhar na area de desenvolvimento ou até mesmo em projetos.
 A baixo está meu e-mail e você pode estar entrando em contato comigo por ele mesmo!
--  📩E-mail apra contato: Walistonsilva@outlook.com
 
-💼Searching for a job!
-
+<h5>📩E-mail apra contato: Walistonsilva@outlook.com  💼Searching for a job!</h5>
+</div>
 <div align="center">
   <a href="https://github.com/Cr1Ticals">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cr1Ticals&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cr1Ticals&layout=compact&langs_count=7&theme=vue"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Ton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
